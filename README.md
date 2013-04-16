@@ -1,2 +1,2 @@
-platform_selfbuild
+platform_selfbuild_samsung_maguro
 ==================
